@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**EthanHindmarsh/EthanHindmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Ethan
 
-Here are some ideas to get you started:
+- 😺 I’m currently working on
+  *  Small monitoring utilities [@AliveStatus](https://github.com/EthanHindmarsh/alivestatus) [@FlameCheck](https://github.com/EthanHindmarsh/flamecheck)
+  *  My websites - Soon™️ (Private repo's)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤠 I’m currently learning
+  * Rust, https://github.com/rust-lang/rustlings
+  * Python - Most of my projects are made with Python!
+  * Javascript & Typescript - Website soon™️
+  
+- 📫 How to reach me:
+
+  * Email: ethan@ethan.lol
+  * Email: ethan@c4ts.me
+  * Email: ethan@ally.lol
+  
+- GitHub Stats
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=EthanHindmarsh&theme=blueberry&count_private=true&hide_border=true&line_height=25)
