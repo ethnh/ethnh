@@ -7,7 +7,7 @@
   *  My websites - Soon™️ (Private repo's)
 
 - 🤠 I’m currently learning
-  * Rust, https://github.com/rust-lang/rustlings
+  * Rust, Practicing rustlings [@Rustlings](https://github.com/rust-lang/rustlings)
   * Python - Most of my projects are made with Python!
   * Javascript & Typescript - Website soon™️
   
