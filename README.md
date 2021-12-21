@@ -9,6 +9,7 @@
 - 🤠 I’m currently learning
   * Rust, Practicing [@Rustlings](https://github.com/rust-lang/rustlings)
   * Python - Most of my projects are made with Python!
+  * Rust & Python through [Cyber Dojo](https://github.com/EthanHindmarsh/cyber-dojo-solutions)
   * Javascript & Typescript - Website soon™️
   
 - 📫 How to reach me:
