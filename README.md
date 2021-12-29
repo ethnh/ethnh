@@ -3,8 +3,8 @@
 #### I'm Ethan
 
 - 😺 I’m currently working on
-  *  Small monitoring utilities [@AliveStatus](https://github.com/EthanHindmarsh/alivestatus) [@FlameCheck](https://github.com/EthanHindmarsh/flamecheck)
-  *  My websites - Soon™️ (Private repo's)
+  *  Personal projects 🙏 
+  *  My websites - Soon™️
 
 - 🤠 I’m currently learning
   * Rust, Practicing [@Rustlings](https://github.com/rust-lang/rustlings)
