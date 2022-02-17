@@ -16,7 +16,6 @@
 
   * Email: ethan@ethan.lol
   * Email: ethan@c4ts.me
-  * Email: ethan@ally.lol
   
 - GitHub Stats
 
