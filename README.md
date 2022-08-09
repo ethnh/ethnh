@@ -1,19 +1,23 @@
 ### Hi Mom 👋😁
 
-#### I'm Ethan
+```
+   _______________                        |*\_/*|________
+  |  ___________  |     .-.     .-.      ||_/-\_|______  |
+  | |           | |    .****. .****.     | |           | |
+  | |   0   0   | |    .*****.*****.     | |   0   0   | |
+  | |     -     | |     .*********.      | |     -     | |
+  | |   \___/   | |      .*******.       | |   \___/   | |
+  | |___     ___| |       .*****.        | |___________| |
+  |_____|\_/|_____|        .***.         |_______________|
+    _|__|/ \|_|_.............*.............._|________|_
+   / ********** \                          / ********** \
+ /  ************  \                      /  ************  \
+--------------------                    --------------------
+```
 
-- 😺 I’m currently working on
-  * Contributing to Open-Source projects
-  * Private Personal projects 🙏 
-  * My websites
-  * Work 🕴️🖥️
-
-- 🤠 I’m currently learning
-  * Rust, C++, & Python through problems from [Cyber Dojo](https://github.com/EthanHindmarsh/cyber-dojo-solutions)
-  * Rust, Practicing [@Rustlings](https://github.com/rust-lang/rustlings)
+📫 Contact me @:
+  * ethan@ethan.lol
+  * ethan@ethanhindmarsh.com
   
-- 📫 How to reach me:
-  * Email: ethan@ethan.lol
-  * Email: ethan@ethanhindmarsh.com
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ethnh&theme=blueberry&count_private=true&hide_border=true&line_height=25)
