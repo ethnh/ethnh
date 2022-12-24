@@ -36,6 +36,3 @@
 📫 Contact me @:
   * ethan@ethan.lol
   * ethan@ethanhindmarsh.com
-  
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=ethnh&theme=blueberry&count_private=true&hide_border=true&line_height=25)
