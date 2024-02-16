@@ -32,7 +32,3 @@
                     `!9899fT|!^"'
                       `!^"'
 ```
-
-📫 Contact me @:
-  * ethan@ethan.lol
-  * ethan@ethanhindmarsh.com
