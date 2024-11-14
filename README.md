@@ -1,3 +1,5 @@
+https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc
+
 ## Hi mom 👋
 
 look upon all works and despair
