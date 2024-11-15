@@ -3,8 +3,14 @@ https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrj
 # Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
 software code of ethics:
+
+
 [ ] The thing that is being created has the capacity to play a more significant role in human life
+
+
 [ ] The thing that is being created is morally profound
+
+
 [ ] The thing that is being created will actually make human life better as a result of its injection into the system
 
 ### Working on :: Ally
