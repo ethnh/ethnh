@@ -1,5 +1,9 @@
 https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc
 
+# Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
+
+### Working on :: Ally
+
 ## Hi mom 👋
 
 look upon all works and despair
@@ -27,3 +31,9 @@ Be very wary of using someone else's computer.
 You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
 
 Reminder that your fate is in your hands, a grand total of 0 people give a single fuck about you
+
+"Guru yok, metod yok, öğretmen yok. Sadece sen ve ben, ve doğa, bahçe içinde." — Terence McKenna
+
+Devs aren't trustworthy by definition
+
+A truly generative design doesn't just fulfill technical requirements but fosters well-being and coherence in people's lives
