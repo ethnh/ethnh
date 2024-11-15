@@ -7,6 +7,8 @@ https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrj
 ### Working on :: Software Supply Chain
 ### Working on :: Global Integrated Fulfillment
 
+> “Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.” [—Casey Camp-Horinek](https://earthworks.org/people/casey-camp-horinek/)
+
 ## Hi mom 👋
 
 look upon all works and despair
