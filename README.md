@@ -2,14 +2,27 @@ https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrj
 
 # Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
+software code of ethics:
+[ ] The thing that is being created has the capacity to play a more significant role in human life
+[ ] The thing that is being created is morally profound
+[ ] The thing that is being created will actually make human life better as a result of its injection into the system
+
 ### Working on :: Ally
 ### Working on :: A lack of access to government information by the state. Available records are often untrustworthy or incomplete
 ### Working on :: Software Supply Chain
 ### Working on :: Global Integrated Fulfillment
 
+Construction is often disconnected from the people using the spaces, as it's primarily in the hands of developers, corporations, and large entities. Traditional societies, by contrast, often allowed people to shape their own environments in ways uniquely suited to their lives
+
 > “Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.” [—Casey Camp-Horinek](https://earthworks.org/people/casey-camp-horinek/)
 
 ## Hi mom 👋
+
+Copyleft dies in china
+
+The cloud in a box? Talk about bottling farts
+
+Try to provide value however you can, consider what others want, what are the things they care about and try to provide that for them.
 
 look upon all works and despair
 
