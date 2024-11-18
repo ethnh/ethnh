@@ -141,7 +141,7 @@ Leverage other resources you have even if you don't have the capital so others t
 | Generosity        | Generosidad       | 慷慨 (*kāngkǎi*)         | Gulheid            | Щедрость (*Shchedrost*) | Générosité         | Großzügigkeit     | Cömertlik          | Generosidade       | 寛大さ (*Kandai-sa*)     |
 | Curiosity         | Curiosidad        | 好奇心 (*hàoqíxīn*)      | Nieuwsgierigheid   | Любопытство (*Lyubopytstvo*) | Curiosité         | Neugierde         | Merak              | Curiosidade        | 好奇心 (*Kōkishin*)      |
 
-"""
+
 
 # What's going on?
 
@@ -149,8 +149,7 @@ Leverage other resources you have even if you don't have the capital so others t
 
 # Take care of yourself
 
-"""
-Anmol Gupta
+
 
 
 
