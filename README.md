@@ -24,6 +24,14 @@ Construction is often disconnected from the people using the spaces, as it's pri
 
 ## Hi mom 👋
 
+How do I create my worldview?
+
+What would change it?
+
+What are my priorities?
+
+Do my priorities still make sense given the changes that have happened?
+
 Copyleft dies in china
 
 The cloud in a box? Talk about bottling farts
