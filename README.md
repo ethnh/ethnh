@@ -20,6 +20,8 @@ software code of ethics:
 
 ## Hi mom 👋
 
+The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
+
 “Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.” [—Casey Camp-Horinek](https://earthworks.org/people/casey-camp-horinek/)
 
 Construction is often disconnected from the people using the spaces, as it's primarily in the hands of developers, corporations, and large entities. Traditional societies, by contrast, often allowed people to shape their own environments in ways uniquely suited to their lives
