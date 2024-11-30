@@ -28,6 +28,8 @@ software code of ethics:
 
 ## Hi mom 👋
 
+confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
+
 The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
 
 “Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.” [—Casey Camp-Horinek](https://earthworks.org/people/casey-camp-horinek/)
