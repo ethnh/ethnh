@@ -1,4 +1,10 @@
+# Ethan Hindmarsh For President 2040
+
+Contact me via:
+
 https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc
+
+I will respect all opinions and ideas -- Speak freely 👋
 
 # Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
