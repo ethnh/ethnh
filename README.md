@@ -52,8 +52,8 @@ Economic systems must operate on principles of fairness, ensuring that the benef
 ## Article 8: Recognition of Common Interest in Economic Growth
 The wealth of nations grows most sustainably when it promotes the well-being of all individuals. Policies and practices that support fair wages, access to resources, and investment in public goods strengthen the dignity and prosperity of societies as a whole.
 
-## Article 9: Duty of the Powerful to the Vulnerable
-Those who hold positions of power or influence, including landlords and employers, are obligated to act in ways that respect the dignity of others. Their rights to profit and property come with a corresponding duty to uplift and support those who contribute to their success.
+## Article 9: The Role of Fair Competition
+The prosperity of societies is best served by systems that promote fair competition and discourage monopolistic control. The concentration of power, whether economic or political, undermines opportunities for all and creates inequities that harm the common good. Economic frameworks should be structured to ensure that no single group or individual exploits their position to the detriment of others.
 
 ## Article 10: Economic Freedom and Social Responsibility
 The pursuit of individual economic gain must be balanced by the recognition of collective needs. Systems that promote unrestrained self-interest at the expense of social harmony undermine the foundations of justice and equity.
