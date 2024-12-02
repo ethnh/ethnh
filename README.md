@@ -55,9 +55,8 @@ The wealth of nations grows most sustainably when it promotes the well-being of 
 ## Article 9: The Role of Fair Competition
 The prosperity of societies is best served by systems that promote fair competition and discourage monopolistic control. The concentration of power, whether economic or political, undermines opportunities for all and creates inequities that harm the common good. Economic frameworks should be structured to ensure that no single group or individual exploits their position to the detriment of others.
 
-## Article 10: Economic Freedom and Social Responsibility
-The pursuit of individual economic gain must be balanced by the recognition of collective needs. Systems that promote unrestrained self-interest at the expense of social harmony undermine the foundations of justice and equity.
-
+## Article 10: The Right to Equal Opportunity and Integrity in Society
+Every individual is entitled to fair opportunities, untainted by the influence of corruption or nepotism. Societies must cultivate systems where merit and personal effort determine success, ensuring that the pathways to education, employment, and social mobility are accessible to all. Manipulating systems for personal gain undermines public trust and creates cycles of inequality, disenfranchisement, and systemic corruption, which must be actively dismantled. A society that thrives is one where transparency and fairness are upheld as foundational principles.
 
 ## Hi mom 👋
 
