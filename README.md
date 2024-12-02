@@ -26,6 +26,39 @@ software code of ethics:
 ### Working on :: Software Supply Chain
 ### Working on :: Global Integrated Fulfillment
 
+# Ethan Hindmarsh For President 2040 Declaration
+
+## Article 1: Recognition of Human Dignity
+All human beings possess inherent dignity and value, which must be universally respected and upheld. The recognition of this dignity is the foundation of justice, peace, and equality within societies.
+
+## Article 2: Equality and Shared Responsibility
+Every individual, regardless of their origin, beliefs, or status, is entitled to equality before the law and in social, political, and economic rights. It is the duty of all members of society to act in solidarity, fostering mutual respect and collective well-being.
+
+## Article 3: Universal Commitment to Justice
+Justice must be pursued in every corner of the world as a common endeavor. All nations and communities are called to eliminate oppression, protect the vulnerable, and promote the fair treatment of all persons.
+
+## Article 4: The Role of the Collective in Advancing Human Rights
+The realization of a just and equitable society requires the active participation and moral commitment of all individuals and institutions. Efforts must be united to address injustices and to build systems that reflect universal principles of fairness. Consider looking at the Universal Declaration of Human Rights
+
+## Article 5: Education as a Pillar of Human Development
+Education shall be directed towards cultivating awareness of human dignity, fostering understanding among peoples, and preparing individuals to contribute positively to the advancement of a free and just society.
+
+## Article 6: Equitable Stewardship of Resources
+Those who hold wealth and resources, including landlords and property owners, bear a moral responsibility to contribute to the welfare of society. The advantages they derive from the land and other resources are inseparable from the labor and participation of the broader community.
+
+## Article 7: The Just Distribution of Wealth
+Economic systems must operate on principles of fairness, ensuring that the benefits of prosperity are shared among all members of society. Practices that concentrate wealth in the hands of a few, while many face hardship, contradict the principles of justice and equality.
+
+## Article 8: Recognition of Common Interest in Economic Growth
+The wealth of nations grows most sustainably when it promotes the well-being of all individuals. Policies and practices that support fair wages, access to resources, and investment in public goods strengthen the dignity and prosperity of societies as a whole.
+
+## Article 9: Duty of the Powerful to the Vulnerable
+Those who hold positions of power or influence, including landlords and employers, are obligated to act in ways that respect the dignity of others. Their rights to profit and property come with a corresponding duty to uplift and support those who contribute to their success.
+
+## Article 10: Economic Freedom and Social Responsibility
+The pursuit of individual economic gain must be balanced by the recognition of collective needs. Systems that promote unrestrained self-interest at the expense of social harmony undermine the foundations of justice and equity.
+
+
 ## Hi mom 👋
 
 confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
