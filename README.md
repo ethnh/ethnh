@@ -60,6 +60,42 @@ Every individual is entitled to fair opportunities, untainted by the influence o
 
 ## Hi mom 👋
 
+I plan every step so that my anonymity will not only exist today, but also in 10 years.
+
+The reason that generative AI is booming is not that it produces value for customers, but rather that it consumes a lot of what the folks with money to spare are selling. This is a cynical and incomplete model for what’s happening; it doesn’t explain everything. But it has helped me see some things that I was missing
+
+“Only those who have the patience to do simple things perfectly will acquire the skill to do difficult things easily.” – Friedrich Schiller
+
+“The truth is generally seen, rarely heard.” – Baltasar Gracian
+
+“Think of all the beauty still left around you and be happy.” – Anne Frank
+
+“Conquer yourself rather than the world.” – Rene Descartes
+
+“One should use common words to say uncommon things.” – Arthur Schopenhauer
+
+“Hang on to your youthful enthusiasms – you’ll be able to use them better when you’re older.” – Seneca
+
+“I would rather be a devil in alliance with truth, than an angel in alliance with falsehood.” – Ludwig Feuerbach
+
+“Every man is guilty of all the good he did not do.” – Voltaire
+
+“The busier we are, the more acutely we feel that we live, the more conscious we are of life.” – Immanuel Kant
+
+The sad thing about speculative investing is that it's zero sum.
+
+“The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.” – Friedrich Nietzsche
+
+“Reason has always existed, but not always in a reasonable form.” – Karl Marx
+
+“People demand freedom of speech as a compensation for the freedom of thought which they seldom use.” – Søren Kierkegaard
+
+“In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.” – Friedrich Nietzsche
+
+“I have always thought the actions of men the best interpreters of their thoughts.” – John Locke
+
+“I love those who yearn for the impossible.” – Johann Wolfgang von Goethe
+
 confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
 
 The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
