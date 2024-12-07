@@ -38,13 +38,13 @@ Every individual, regardless of their origin, beliefs, or status, is entitled to
 Justice must be pursued in every corner of the world as a common endeavor. All nations and communities are called to eliminate oppression, protect the vulnerable, and promote the fair treatment of all persons.
 
 ## Article 4: The Role of the Collective in Advancing Human Rights
-The realization of a just and equitable society requires the active participation and moral commitment of all individuals and institutions. Efforts must be united to address injustices and to build systems that reflect universal principles of fairness. Consider looking at the Universal Declaration of Human Rights
+The realization of a just and equitable society requires the active participation and moral commitment of all individuals and institutions. Efforts must be united to address injustices and to build systems that reflect universal principles of fairness.
 
 ## Article 5: Education as a Pillar of Human Development
 Education shall be directed towards cultivating awareness of human dignity, fostering understanding among peoples, and preparing individuals to contribute positively to the advancement of a free and just society.
 
 ## Article 6: Equitable Stewardship of Resources
-Those who hold wealth and resources, including landlords and property owners, bear a moral responsibility to contribute to the welfare of society. The advantages they derive from the land and other resources are inseparable from the labor and participation of the broader community.
+Those who hold wealth and resources bear a moral responsibility to contribute to the welfare of society. The advantages they derive from the resources are inseparable from the labor and participation of the broader community.
 
 ## Article 7: The Just Distribution of Wealth
 Economic systems must operate on principles of fairness, ensuring that the benefits of prosperity are shared among all members of society. Practices that concentrate wealth in the hands of a few, while many face hardship, contradict the principles of justice and equality.
