@@ -64,37 +64,37 @@ I plan every step so that my anonymity will not only exist today, but also in 10
 
 The reason that generative AI is booming is not that it produces value for customers, but rather that it consumes a lot of what the folks with money to spare are selling. This is a cynical and incomplete model for what’s happening; it doesn’t explain everything. But it has helped me see some things that I was missing
 
-“Only those who have the patience to do simple things perfectly will acquire the skill to do difficult things easily.” – Friedrich Schiller
+Only those who have the patience to do simple things perfectly will acquire the skill to do difficult things easily.
 
-“The truth is generally seen, rarely heard.” – Baltasar Gracian
+The truth is generally seen, rarely heard.
 
-“Think of all the beauty still left around you and be happy.” – Anne Frank
+Think of all the beauty still left around you and be happy.
 
-“Conquer yourself rather than the world.” – Rene Descartes
+Conquer yourself rather than the world.
 
-“One should use common words to say uncommon things.” – Arthur Schopenhauer
+One should use common words to say uncommon things.
 
-“Hang on to your youthful enthusiasms – you’ll be able to use them better when you’re older.” – Seneca
+Hang on to your youthful enthusiasms – you’ll be able to use them better when you’re older.
 
-“I would rather be a devil in alliance with truth, than an angel in alliance with falsehood.” – Ludwig Feuerbach
+I would rather be a devil in alliance with truth, than an angel in alliance with falsehood.
 
-“Every man is guilty of all the good he did not do.” – Voltaire
+Every man is guilty of all the good he did not do.
 
-“The busier we are, the more acutely we feel that we live, the more conscious we are of life.” – Immanuel Kant
+The busier we are, the more acutely we feel that we live, the more conscious we are of life.
 
 The sad thing about speculative investing is that it's zero sum.
 
-“The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.” – Friedrich Nietzsche
+The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.
 
-“Reason has always existed, but not always in a reasonable form.” – Karl Marx
+Reason has always existed, but not always in a reasonable form.
 
-“People demand freedom of speech as a compensation for the freedom of thought which they seldom use.” – Søren Kierkegaard
+People demand freedom of speech as a compensation for the freedom of thought which they seldom use.
 
-“In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.” – Friedrich Nietzsche
+In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.
 
-“I have always thought the actions of men the best interpreters of their thoughts.” – John Locke
+I have always thought the actions of men the best interpreters of their thoughts.
 
-“I love those who yearn for the impossible.” – Johann Wolfgang von Goethe
+I love those who yearn for the impossible.
 
 confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
 
