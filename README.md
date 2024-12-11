@@ -382,7 +382,7 @@ IIII. Key Design Considerations
 
 - automatically-updating personal contact information (private by default) 
 
- -See events from govt agencies, organizations, people you follow, visualized on a map 
+- See events from govt agencies, organizations, people you follow, visualized on a map 
 
 - Discover relevant content 
 
