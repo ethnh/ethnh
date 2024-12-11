@@ -229,3 +229,161 @@ Leverage other resources you have even if you don't have the capital so others t
 # How are you?
 
 # Take care of yourself
+
+
+# Ally
+"Ally" is an innovative platform under development, designed to allow users to publish, subscribe to, and manage digital blogs with a strong focus on privacy. The initiative explores how individuals can share content and connect with others without compromising personal data, or being victim of “surveillance capitalism” a common concern with traditional social media networks. The goal is to encourage authentic, localized content sharing and support diverse user interaction preferences, all on a foundation of unbreakable privacy by default. Ally is mobile-first, focusing firstly on building an app ready for use on phones and smaller screens. 
+
+I. The Internet is Bankrupt 
+
+Google optimized for sending people away from its site when prevailing wisdom at the time was to maximize time on-site 
+
+Google now serves its users billions of searches daily 
+
+Do you know many social networks that try to make you spend less time on them and try to get you to get outside/workout/socialize more? 
+
+What social media serves you? 
+
+Social Media feeds: The Need To Know, The Need To Be Accepted, The Need To Explore, And Develop An Identity The Need To Find Out What Life Is About 
+
+ 
+
+II. Emperors And Kings 
+
+Most of today’s internet is made up of centralized platforms ruled by emperors. Many of them have been pretty good emperors, doing their best to manage platforms well, allowing ordinary people to get on with their lives. 
+
+Rule The Internet 
+
+Rule The Truth 
+
+Our current infrastructure is focused on centralizing, allowing for unlimited sources of metadata. The current future we (as an open source species) are building for is federated. Decentralize. Host your data yourself. Platforms cannot censor your speech if you are the platform. Our current social media apps are not “platforms” in this same way. 
+
+The “cloud” does NOT appreciate you using an “Ad Blocker”.  
+
+Instagram Promotes Isolation 
+
+“We Like Our Smartphones More Than We Like People” 
+
+Young adult females 13-19 suicide rate increased over 300% since 2007 (instagram launch) 
+
+“The increase in suicides in only the youth population and the signal of a potentially larger proportional increase in young females all appeared to be consistent with media contagion and seem to reinforce the need for safer and more thoughtful portrayal of suicide in the media” 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6547137/ 
+
+Social engagement with friends down below 20hrs/wk in 2020 
+
+Imagine the depictions of suicide possible with VR headsets, or other immersive tech. Our emperors and kings cannot protect the vulnerable. The vulnerable must be empowered to defend themselves. 
+
+ 
+
+III. Surveillance Capitalism 
+
+Everyone should be able to forge relationships, learn, create, and build online — without being monetized. 
+
+ 
+
+Goldman Sachs asks in biotech research report: 'Is curing patients a sustainable business model?' 
+
+ 
+
+You: A means to an end ($$$) 
+
+  
+
+Congratulations! 
+
+ 
+
+“I Agree To The Terms & Conditions” 
+
+ 
+
+Each Facebook User Is Monitored by Thousands of Companies 
+
+ 
+
+Carriers Swore They'd Stop Selling Location Data. Will They Ever? 
+
+ 
+
+A Spy Site Is Scraping Discord and Selling Users’ Messages 
+
+ 
+
+“An Android device running Chrome and sitting inert, with no user interaction, transmits location data to Google every five minutes. This is the "resting heartbeat" of surveillance for an Android device. Ask that device to do any work for you and its pulse quickens, until it is emitting a nearly continuous stream of information about your activities to Google” 
+
+ 
+
+Are you really in control? 
+
+ 
+
+https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/ 
+
+ 
+
+https://pluralistic.net/2024/05/07/treacherous-computing/ 
+
+ 
+
+ 
+
+IIII. Key Design Considerations 
+
+ 
+
+- Location-Centric Design 
+
+- Maps, user location, event location 
+
+- Visualize location over time 
+
+- Maker Mode vs Taker Mode (writer vs reader) 
+
+- friends-only comments and likes 
+
+- live location updates to (public buses, private friends, private uber order, etc) 
+
+- SEO tool AI recommendation for title, tags, keywords, etc 
+
+- optional SOS button 
+
+- Blogposts 
+
+- Import from RSS 
+
+- Export to markdown plaintext (“Credible Exit”) 
+
+- Reposting  
+
+- Sponsoring 
+
+- Invitation / Sharing System 
+
+- graph-visualization 
+
+- discovery 
+
+- world friend activity map 
+
+- Location reviews 
+
+- Administrative zone-based topics, potentially just down to per-city (discuss about your city) 
+
+- E-Book Publish & Reader 
+
+- direct messaging 
+
+- Identities 
+
+- XMR QR Code 
+
+- A birthday reminder for close friends and family 
+
+- automatically-updating personal contact information (private by default) 
+
+ -See events from govt agencies, organizations, people you follow, visualized on a map 
+
+- Discover relevant content 
+
+- Discover local events
