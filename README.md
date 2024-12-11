@@ -240,7 +240,7 @@ Google optimized for sending people away from its site when prevailing wisdom at
 
 Google now serves its users billions of searches daily 
 
-Do you know many social networks that try to make you spend less time on them and try to get you to get outside/workout/socialize more? 
+Do you know many social networks that try to make you spend less time on them and try to get you to get outside/socialize more? 
 
 What social media serves you? 
 
