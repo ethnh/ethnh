@@ -231,6 +231,17 @@ Leverage other resources you have even if you don't have the capital so others t
 # Take care of yourself
 
 
+Collaboration and Sharing: Emphasizing global collaboration where knowledge, resources, and ideas are openly shared for the benefit of all, rather than being restricted by patents, secrecy, or proprietary constraints.
+
+Transparency: Advocating for transparency in decision-making, governance, and scientific endeavors, mirroring how open-source code is accessible for anyone to inspect, use, and improve.
+
+Collective Improvement: Highlighting humanity's capacity to collectively iterate and improve on solutions, technologies, and societal systems, similar to how open-source communities refine software.
+
+Freedom to Modify: Suggesting a societal structure where individuals and communities can adapt and build upon existing systems, whether in education, healthcare, or technology, to meet local needs or personal preferences.
+
+Decentralization: Encouraging decentralized systems of knowledge and governance, reducing dependence on centralized authorities and fostering more equitable access and participation
+
+
 # Ally
 "Ally" is an innovative platform under development, designed to allow users to publish, subscribe to, and manage digital blogs with a strong focus on privacy. The initiative explores how individuals can share content and connect with others without compromising personal data, or being victim of “surveillance capitalism” a common concern with traditional social media networks. The goal is to encourage authentic, localized content sharing and support diverse user interaction preferences, all on a foundation of unbreakable privacy by default. Ally is mobile-first, focusing firstly on building an app ready for use on phones and smaller screens. 
 
@@ -387,3 +398,5 @@ IIII. Key Design Considerations
 - Discover relevant content 
 
 - Discover local events
+
+
