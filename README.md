@@ -1,30 +1,111 @@
 # Ethan Hindmarsh For President 2040
 
 ### Contact me directly via:
-https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7
+#### [Signal](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7)
 
 ### Join me at:
-https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc
+#### [Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
 
-I will respect all opinions and ideas -- Speak freely 👋
+### I will respect all opinions and ideas -- Speak freely 👋
 
 # Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
-software code of ethics:
+### Software code of ethics:
+
+- [ ] The thing that is being created has the capacity to play a more significant role in human life
+
+- [ ] The thing that is being created is morally profound
+
+- [ ] The thing that is being created will actually make human life better as a result of its injection into the system
+
+# Current Projects:
+
+### Working on :: Ally : A platform for private and authentic content sharing.
+### Working on :: Addressing lack of access to trustworthy government information. : A lack of access to government information by the state. Available records are often untrustworthy or incomplete
+### Working on :: Tackling challenges in the Software Supply Chain
+### Working on :: Improving Global Integrated Fulfillment
+
+# Personal Beliefs and Observations:
+
+    Generative AI is booming not because it produces value for customers but because it consumes resources that wealthier entities profit from.
+    Privacy, freedom of expression, and bodily autonomy are fundamental human rights.
+    Decentralized systems and open collaboration are critical to future innovation and equity.
+    Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.
+    The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
+    You are the architect of your life; each decision builds your future.
+    Devs aren't trustworthy by definition
+    You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
 
 
-[ ] The thing that is being created has the capacity to play a more significant role in human life
+# On Social Media and Technology:
+
+    The Internet is Bankrupt:
+        Early platforms like Google optimized for directing users away from their site.
+        Social media now prioritizes addiction, not connection.
+        The rise of "surveillance capitalism" has monetized relationships, creativity, and learning.
+
+    Surveillance Capitalism:
+        Everyone should be able to learn, build, and connect online without being exploited.
+        From data scraping to constant monitoring, companies profit off your existence.
+
+    Designing For Change:
+        Decentralized, user-hosted platforms can empower individuals and protect freedom.
+        Vulnerable communities must be equipped with tools to defend themselves.
+
+# Key Design Principles for Ally
+
+Location-Centric Features:
+Maps, live location updates for friends, public transportation, and local events. Track and visualize locations over time for activities and interactions within the community.
+
+Privacy-First Blogging:
+Import blog posts from RSS, export content to Markdown for “credible exits,” and ensure blogs are private by default. Provide friends-only comments and likes while maintaining full control over data visibility.
+
+Discovery Tools:
+Visualize local events, friend activities, and administrative zone-based discussions on an interactive map. Enable users to explore city-wide topics and discover relevant content through AI-driven recommendations tailored to user interests and locations.
+
+Direct Engagement:
+Real-time messaging with friends and followers, Monero (XMR) QR code integration for secure and anonymous payments, and automatically updating personal contact information. Support private SOS signals and birthday reminders for close friends and family.
+
+Seamless Sharing:
+Enable reposting and content sponsorship with detailed credit to original creators. Implement sharing systems that utilize invitations and visualizations to grow meaningful networks while focusing on privacy.
+
+Community Empowerment:
+Encourage participation through graph-visualized friend activity maps, local discovery systems, and decentralized collaboration to allow users to shape their own environments.
+
+Event Integration:
+Map-based event visualization for government agencies, organizations, or individuals. Notify users of nearby activities and display these on timelines or visual maps with user-specific relevance.
+
+Filesystem Integration:
+Seamlessly integrate with local file systems for managing media, documents, and content. Enable direct uploads, drag-and-drop functionality, and bi-directional syncing to ensure user data remains under their control and easily accessible for use within the platform.
+
+Accessibility and Exit Options:
+Focus on universal design principles ensuring usability for all, with features for exporting data and leaving the platform without losing content or functionality.
+
+Canary Alerts:
+Introduce a canary feature allowing users to set periodic signals indicating they are active and safe. If the canary expires (e.g., no activity or manual renewal), it automatically alerts their contact list and followers of the expiration. Alerts can include optional pre-set messages, escalation levels, or next steps, ensuring a balance of security and privacy for critical situations.
+
+Collaboration and Sharing: 
+Emphasizing global collaboration where knowledge, resources, and ideas are openly shared for the benefit of all, rather than being restricted by patents, secrecy, or proprietary constraints.
+
+Transparency: 
+Advocating for transparency in decision-making, governance, and scientific endeavors, mirroring how open-source code is accessible for anyone to inspect, use, and improve.
+
+Collective Improvement: 
+Highlighting humanity's capacity to collectively iterate and improve on solutions, technologies, and societal systems, similar to how open-source communities refine software.
+
+Freedom to Modify: 
+Suggesting a societal structure where individuals and communities can adapt and build upon existing systems, whether in education, healthcare, or technology, to meet local needs or personal preferences.
+
+Decentralization: 
+Encouraging decentralized systems of knowledge and governance, reducing dependence on centralized authorities and fostering more equitable access and participation
 
 
-[ ] The thing that is being created is morally profound
+# Reminders:
 
-
-[ ] The thing that is being created will actually make human life better as a result of its injection into the system
-
-### Working on :: Ally
-### Working on :: A lack of access to government information by the state. Available records are often untrustworthy or incomplete
-### Working on :: Software Supply Chain
-### Working on :: Global Integrated Fulfillment
+    Assume nothing.
+    Never go against your gut.
+    Blend in, vary your patterns, and stay under the radar.
+    Provide value, build relationships, and keep your social hierarchy in mind.
 
 # Ethan Hindmarsh For President 2040 Declaration
 
@@ -58,7 +139,9 @@ The prosperity of societies is best served by systems that promote fair competit
 ## Article 10: The Right to Equal Opportunity and Integrity in Society
 Every individual is entitled to fair opportunities, untainted by the influence of corruption or nepotism. Societies must cultivate systems where merit and personal effort determine success, ensuring that the pathways to education, employment, and social mobility are accessible to all. Manipulating systems for personal gain undermines public trust and creates cycles of inequality, disenfranchisement, and systemic corruption, which must be actively dismantled. A society that thrives is one where transparency and fairness are upheld as foundational principles.
 
-## Hi mom 👋
+# Hi mom 👋
+
+# Quote box (send me suggestions):
 
 I plan every step so that my anonymity will not only exist today, but also in 10 years.
 
@@ -98,10 +181,6 @@ I love those who yearn for the impossible.
 
 confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
 
-The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
-
-“Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.” [—Casey Camp-Horinek](https://earthworks.org/people/casey-camp-horinek/)
-
 Construction is often disconnected from the people using the spaces, as it's primarily in the hands of developers, corporations, and large entities. Traditional societies, by contrast, often allowed people to shape their own environments in ways uniquely suited to their lives
 
 How do I create my worldview?
@@ -136,17 +215,11 @@ You are about to reach your goals.
 
 Your potential is limitless, and every day brings you closer to your dreams.
 
-You are the architect of your life; each decision builds your future.
-
 Be very wary of using someone else's computer.
-
-You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
 
 Reminder that your fate is in your hands, a grand total of 0 people give a single fuck about you
 
 "Guru yok, metod yok, öğretmen yok. Sadece sen ve ben, ve doğa, bahçe içinde." — Terence McKenna
-
-Devs aren't trustworthy by definition
 
 A truly generative design doesn't just fulfill technical requirements but fosters well-being and coherence in people's lives
 
@@ -206,7 +279,7 @@ Leverage other resources you have even if you don't have the capital so others t
 
 """the drummer gangang zai from the Chinese Mainland band school girl by-bye made a late night post revealing that during her University days her father allegedly used his connections to modify her GPA so that all her grades were above 85 she even thought how is this possible later her father arranged a job for her at a TV station bought a house nearby and told her this is how your life will be from now on cherish it well why are poor people poor this question shouldn't even be a question because in a normal societal structure as long as there is basic social fairness and equal opportunities for everyone allowing individuals to rely on their survival skills to thrive having both poor and Rich people is just a normal social ecology however a relevant survey report draws significant attention the 2010 China residents quality of life index survey report pointed out that about 1/4 of respondents felt poor than those around them when discussing why they are poor people tend to blame broader social factors such as the social system and social climate rather than personal reasons the survey also indicated that when exploring the causes of poverty and wealth there is a widespread value recognition of connections and networks whether in urban or rural areas the primary reason people believe they are poor is lack of connections and networks a Taiwanese writer has a unique observation to gauge a society's progress and civility a simple way is to see what methods people use to solve their problems he found that in mainland China when people encounter trouble they often do not first seek out a lawyer instead they rely on various social connections such as through acquaintances and friends to navigate official channels and resolve their issues the backdoor deals are just the tip of the iceberg in the rampantcheating culture in Chinese Society the book The Ultimate mission of Communism reveals the root cause of these societal issues the Communist Party maintains its rule through violence and deceit with lying being one of its specialties people who grow up under this system lie easily and without any guilt leading to a society where deceit is pervasive from public life to family interactions countless lies saturate Chinese Society the most severe cases of using connections and backdoor methods occur when Chinese officials collude with gangs"""
 
-#### “The further a society drifts from the truth, the more it will hate those who speak it.” 
+# “The further a society drifts from the truth, the more it will hate those who speak it.” 
 
 # Values
 | **English**      | **Spanish**       | **Mandarin Chinese**   | **Dutch**          | **Russian**          | **French**         | **German**         | **Turkish**        | **Portuguese**     | **Japanese**          |
@@ -230,28 +303,13 @@ Leverage other resources you have even if you don't have the capital so others t
 | Ambition          | Ambición          | 雄心壮志 (*xióngxīn zhuàngzhì*) | Ambitie            | Амбиция (*Ambitsiya*) | Ambition           | Ehrgeiz            | İhtiras             | Ambição            | 野心 (*Yashin*)         |
 | Personal Autonomy | Autonomía Personal | 个人自主权 (*gèrén zìzhǔquán*) | Persoonlijke Autonomie | Личная Автономия (*Lichnaya Avtonomiya*) | Autonomie Personnelle | Persönliche Autonomie | Kişisel Özerklik   | Autonomia Pessoal  | 個人の自律 (*Kojin no Jiritsu*) |
 
-
-
-
 # What's going on?
 
 # How are you?
 
 # Take care of yourself
 
-
-Collaboration and Sharing: Emphasizing global collaboration where knowledge, resources, and ideas are openly shared for the benefit of all, rather than being restricted by patents, secrecy, or proprietary constraints.
-
-Transparency: Advocating for transparency in decision-making, governance, and scientific endeavors, mirroring how open-source code is accessible for anyone to inspect, use, and improve.
-
-Collective Improvement: Highlighting humanity's capacity to collectively iterate and improve on solutions, technologies, and societal systems, similar to how open-source communities refine software.
-
-Freedom to Modify: Suggesting a societal structure where individuals and communities can adapt and build upon existing systems, whether in education, healthcare, or technology, to meet local needs or personal preferences.
-
-Decentralization: Encouraging decentralized systems of knowledge and governance, reducing dependence on centralized authorities and fostering more equitable access and participation
-
-
-# Ally
+# Why "Ally"?:
 "Ally" is an innovative platform under development, designed to allow users to publish, subscribe to, and manage digital blogs with a strong focus on privacy. The initiative explores how individuals can share content and connect with others without compromising personal data, or being victim of “surveillance capitalism” a common concern with traditional social media networks. The goal is to encourage authentic, localized content sharing and support diverse user interaction preferences, all on a foundation of unbreakable privacy by default. Ally is mobile-first, focusing firstly on building an app ready for use on phones and smaller screens. 
 
 I. The Internet is Bankrupt 
@@ -265,8 +323,6 @@ Do you know many social networks that try to make you spend less time on them an
 What social media serves you? 
 
 Social Media feeds: The Need To Know, The Need To Be Accepted, The Need To Explore, And Develop An Identity The Need To Find Out What Life Is About 
-
- 
 
 II. Emperors And Kings 
 
@@ -294,118 +350,30 @@ Social engagement with friends down below 20hrs/wk in 2020
 
 Imagine the depictions of suicide possible with VR headsets, or other immersive tech. Our emperors and kings cannot protect the vulnerable. The vulnerable must be empowered to defend themselves. 
 
- 
-
 III. Surveillance Capitalism 
 
 Everyone should be able to forge relationships, learn, create, and build online — without being monetized. 
 
- 
-
 Goldman Sachs asks in biotech research report: 'Is curing patients a sustainable business model?' 
-
- 
 
 You: A means to an end ($$$) 
 
-  
-
 Congratulations! 
-
- 
 
 “I Agree To The Terms & Conditions” 
 
- 
-
 Each Facebook User Is Monitored by Thousands of Companies 
-
- 
 
 Carriers Swore They'd Stop Selling Location Data. Will They Ever? 
 
- 
-
 A Spy Site Is Scraping Discord and Selling Users’ Messages 
-
- 
 
 “An Android device running Chrome and sitting inert, with no user interaction, transmits location data to Google every five minutes. This is the "resting heartbeat" of surveillance for an Android device. Ask that device to do any work for you and its pulse quickens, until it is emitting a nearly continuous stream of information about your activities to Google” 
 
- 
-
 Are you really in control? 
 
- 
-
 https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/ 
-
- 
 
 https://pluralistic.net/2024/05/07/treacherous-computing/ 
 
  
-
- 
-
-IIII. Key Design Considerations 
-
- 
-
-- Location-Centric Design 
-
-- Maps, user location, event location 
-
-- Visualize location over time 
-
-- Maker Mode vs Taker Mode (writer vs reader) 
-
-- friends-only comments and likes 
-
-- live location updates to (public buses, private friends, private uber order, etc) 
-
-- SEO tool AI recommendation for title, tags, keywords, etc 
-
-- optional SOS button 
-
-- Blogposts 
-
-- Import from RSS 
-
-- Export to markdown plaintext (“Credible Exit”) 
-
-- Reposting  
-
-- Sponsoring 
-
-- Invitation / Sharing System 
-
-- graph-visualization 
-
-- discovery 
-
-- world friend activity map 
-
-- Location reviews 
-
-- Administrative zone-based topics, potentially just down to per-city (discuss about your city) 
-
-- E-Book Publish & Reader 
-
-- direct messaging 
-
-- Identities 
-
-- XMR QR Code 
-
-- A birthday reminder for close friends and family 
-
-- automatically-updating personal contact information (private by default) 
-
-- See events from govt agencies, organizations, people you follow, visualized on a map 
-
-- Discover relevant content 
-
-- Discover local events
-
-
