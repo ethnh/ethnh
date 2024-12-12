@@ -221,6 +221,15 @@ Leverage other resources you have even if you don't have the capital so others t
 | Humility          | Humildad          | 谦逊 (*qiānxùn*)        | Nederigheid        | Смирение (*Smirenie*)  | Humilité           | Bescheidenheit    | Alçakgönüllülük    | Humildade          | 謙遜 (*Kenson*)          |
 | Generosity        | Generosidad       | 慷慨 (*kāngkǎi*)         | Gulheid            | Щедрость (*Shchedrost*) | Générosité         | Großzügigkeit     | Cömertlik          | Generosidade       | 寛大さ (*Kandai-sa*)     |
 | Curiosity         | Curiosidad        | 好奇心 (*hàoqíxīn*)      | Nieuwsgierigheid   | Любопытство (*Lyubopytstvo*) | Curiosité         | Neugierde         | Merak              | Curiosidade        | 好奇心 (*Kōkishin*)      |
+| Radical Privacy   | Privacidad Radical | 激进隐私 (*jījǐn yǐnsī*) | Radicale Privacy   | Радикальная Приватность (*Radikal'naya Privatnost'*) | Privacy Radicale   | Radikale Privatsphäre | Radikal Gizlilik   | Privacidade Radical | 徹底的プライバシー (*Tetteiteki Puraibashī*) |
+| Ethical Technology | Tecnología Ética | 伦理技术 (*lúnlǐ jìshù*) | Ethische Technologie | Этическая Технология (*Eticheskaya Tekhnologiya*) | Technologie Éthique | Ethische Technologie | Etik Teknoloji     | Tecnologia Ética   | 倫理的技術 (*Rinriteki Gijutsu*) |
+| Intellectual Freedom | Libertad Intelectual | 知识自由 (*zhīshi zìyóu*) | Intellectuele Vrijheid | Интеллектуальная Свобода (*Intellektual'naya Svoboda*) | Liberté Intellectuelle | Intellektuelle Freiheit | Entelektüel Özgürlük | Liberdade Intelectual | 知的自由 (*Chiteki Jiyū*) |
+| Social Justice    | Justicia Social   | 社会正义 (*shèhuì zhèngyì*) | Sociale Rechtvaardigheid | Социальная Справедливость (*Sotsial'naya Spravedlivost'*) | Justice Sociale    | Soziale Gerechtigkeit | Sosyal Adalet      | Justiça Social     | 社会正義 (*Shakai Seigi*) |
+| Collective Empowerment | Empoderamiento Colectivo | 集体赋能 (*jítǐ fùnéng*) | Collectieve Empowerment | Коллективное Расширение Прав (*Kollektivnoye Rasshireniye Prav*) | Autonomisation Collective | Kollektive Ermächtigung | Kolektif Güçlendirme | Empoderamento Coletivo | 集団的エンパワーメント (*Shūdan-teki Enpawāmento*) |
+| Radical Transparency | Transparencia Radical | 激进透明 (*jījǐn tòumíng*) | Radicale Transparantie | Радикальная Прозрачность (*Radikal'naya Prozrachnost'*) | Transparence Radicale | Radikale Transparenz | Radikal Şeffaflık   | Transparência Radical | 徹底的透明性 (*Tetteiteki Tōmesei*) |
+| Ambition          | Ambición          | 雄心壮志 (*xióngxīn zhuàngzhì*) | Ambitie            | Амбиция (*Ambitsiya*) | Ambition           | Ehrgeiz            | İhtiras             | Ambição            | 野心 (*Yashin*)         |
+| Personal Autonomy | Autonomía Personal | 个人自主权 (*gèrén zìzhǔquán*) | Persoonlijke Autonomie | Личная Автономия (*Lichnaya Avtonomiya*) | Autonomie Personnelle | Persönliche Autonomie | Kişisel Özerklik   | Autonomia Pessoal  | 個人の自律 (*Kojin no Jiritsu*) |
+
 
 
 
