@@ -27,7 +27,7 @@ Humble, Texas 77346
 
 # Current Projects:
 
-### Working on :: Ally : A platform for private and authentic content sharing.
+### Working on :: Ally : A platform for private and authentic content sharing. : Autonomisation.
 ### Working on :: Addressing lack of access to trustworthy government information. : A lack of access to government information by the state. Available records are often untrustworthy or incomplete
 ### Working on :: Tackling challenges in the Software Supply Chain
 ### Working on :: Improving Global Integrated Fulfillment
