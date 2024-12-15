@@ -9,6 +9,7 @@ Ethan Hindmarsh
 17506 Bighorn River Ln
 
 Humble, Texas 77346
+#### E-Mail: github-inbound@ethan.lol
 ### Join me at:
 #### [Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
 #### Session Group: Message me
