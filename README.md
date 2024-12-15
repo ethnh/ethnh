@@ -59,6 +59,8 @@ Humble, Texas 77346
         Decentralized, user-hosted platforms can empower individuals and protect freedom.
         Vulnerable communities must be equipped with tools to defend themselves.
 
+# "\[Does] our inability to effectively address mass surveillance constitutes a failure of our field \[cryptography?] I believe that it does. I call for a community-wide effort to develop more effective means to resist mass surveillance"
+
 # Key Design Principles for Ally
 
 Location-Centric Features:
