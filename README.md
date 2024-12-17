@@ -43,6 +43,7 @@ Humble, Texas 77346
     You are the architect of your life; each decision builds your future.
     Devs aren't trustworthy by definition
     You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
+    Confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
 
 
 # On Social Media and Technology:
