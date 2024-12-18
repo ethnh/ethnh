@@ -154,6 +154,8 @@ Every individual is entitled to fair opportunities, untainted by the influence o
 
 # Quote box (send me suggestions):
 
+No one person can be an expert on everything. So vesting all power into a single person's hands will never make sense. That doesn't even get into the incentive problems surrounding centralizing decision making. Decision making groups tend to make decisions that don't hurt themselves (people are loss averse). So we end up with situations where the decision makers will avoid hurting themselves, even if they could handle it, at the expense of those without decision making power.
+
 I plan every step so that my anonymity will not only exist today, but also in 10 years.
 
 The reason that generative AI is booming is not that it produces value for customers, but rather that it consumes a lot of what the folks with money to spare are selling. This is a cynical and incomplete model for what’s happening; it doesn’t explain everything. But it has helped me see some things that I was missing
