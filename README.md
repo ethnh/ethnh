@@ -368,7 +368,6 @@ https://pluralistic.net/2024/05/07/treacherous-computing/
  
 # Values
 
-Here is the updated table including the requested terms, along with translations into **Polish** and the other languages:
 
 | **English**              | **Spanish**             | **Mandarin Chinese**       | **Dutch**              | **Russian**                   | **French**               | **German**              | **Turkish**             | **Portuguese**          | **Japanese**             | **Polish**              |
 |---------------------------|-------------------------|----------------------------|------------------------|-------------------------------|--------------------------|-------------------------|-------------------------|-------------------------|--------------------------|-------------------------|
