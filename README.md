@@ -109,18 +109,12 @@ Encouraging decentralized systems of knowledge and governance, reducing dependen
 Subscription based user verification:
 Alternative revenue model to "surveillance capitalism".
 
-# Reminders:
-
-    Assume nothing.
-    Never go against your gut.
-    Blend in, vary your patterns, and stay under the radar.
-    Provide value, build relationships, and keep your social hierarchy in mind.
 
 # Ethan Hindmarsh For President 2040
 
 # Hi mom 👋
 
-# Quote box (send me suggestions):
+# Bits of Inspiration:
 
 He Will Not Divide Us
 
