@@ -118,41 +118,13 @@ Encouraging decentralized systems of knowledge and governance, reducing dependen
     Blend in, vary your patterns, and stay under the radar.
     Provide value, build relationships, and keep your social hierarchy in mind.
 
-# Ethan Hindmarsh For President 2040 Declaration
-
-## Article 1: Recognition of Human Dignity
-All human beings possess inherent dignity and value, which must be universally respected and upheld. The recognition of this dignity is the foundation of justice, peace, and equality within societies.
-
-## Article 2: Equality and Shared Responsibility
-Every individual, regardless of their origin, beliefs, or status, is entitled to equality before the law and in social, political, and economic rights. It is the duty of all members of society to act in solidarity, fostering mutual respect and collective well-being.
-
-## Article 3: Universal Commitment to Justice
-Justice must be pursued in every corner of the world as a common endeavor. All nations and communities are called to eliminate oppression, protect the vulnerable, and promote the fair treatment of all persons.
-
-## Article 4: The Role of the Collective in Advancing Human Rights
-The realization of a just and equitable society requires the active participation and moral commitment of all individuals and institutions. Efforts must be united to address injustices and to build systems that reflect universal principles of fairness.
-
-## Article 5: Education as a Pillar of Human Development
-Education shall be directed towards cultivating awareness of human dignity, fostering understanding among peoples, and preparing individuals to contribute positively to the advancement of a free and just society.
-
-## Article 6: Equitable Stewardship of Resources
-Those who hold wealth and resources bear a moral responsibility to contribute to the welfare of society. The advantages they derive from the resources are inseparable from the labor and participation of the broader community.
-
-## Article 7: The Just Distribution of Wealth
-Economic systems must operate on principles of fairness, ensuring that the benefits of prosperity are shared among all members of society. Practices that concentrate wealth in the hands of a few, while many face hardship, contradict the principles of justice and equality.
-
-## Article 8: Recognition of Common Interest in Economic Growth
-The wealth of nations grows most sustainably when it promotes the well-being of all individuals. Policies and practices that support fair wages, access to resources, and investment in public goods strengthen the dignity and prosperity of societies as a whole.
-
-## Article 9: The Role of Fair Competition
-The prosperity of societies is best served by systems that promote fair competition and discourage monopolistic control. The concentration of power, whether economic or political, undermines opportunities for all and creates inequities that harm the common good. Economic frameworks should be structured to ensure that no single group or individual exploits their position to the detriment of others.
-
-## Article 10: The Right to Equal Opportunity and Integrity in Society
-Every individual is entitled to fair opportunities, untainted by the influence of corruption or nepotism. Societies must cultivate systems where merit and personal effort determine success, ensuring that the pathways to education, employment, and social mobility are accessible to all. Manipulating systems for personal gain undermines public trust and creates cycles of inequality, disenfranchisement, and systemic corruption, which must be actively dismantled. A society that thrives is one where transparency and fairness are upheld as foundational principles.
+# Ethan Hindmarsh For President 2040
 
 # Hi mom 👋
 
 # Quote box (send me suggestions):
+
+He Will Not Divide Us
 
 No one person can be an expert on everything. So vesting all power into a single person's hands will never make sense. That doesn't even get into the incentive problems surrounding centralizing decision making. Decision making groups tend to make decisions that don't hurt themselves (people are loss averse). So we end up with situations where the decision makers will avoid hurting themselves, even if they could handle it, at the expense of those without decision making power.
 
