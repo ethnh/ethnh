@@ -18,7 +18,15 @@ Humble, Texas 77346
 
 # Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
-### Software code of ethics:
+# Open Questions:
+
+- What do you value most in life, and how do you act on those values?
+
+- How do social media platforms influence our understanding of truth?
+
+- Is it ever morally acceptable to break the law? Why or why not?
+
+# Software code of ethics:
 
 - [ ] The thing that is being created has the capacity to play a more significant role in human life
 
@@ -69,7 +77,7 @@ Location-Centric Features:
 Maps, live location updates for friends, public transportation, and local events. Track and visualize locations over time for activities and interactions within your private community.
 
 Discovery Tools:
-Visualize local events, friend activities, and administrative zone-based discussions on an interactive map. Enable users to explore city-wide topics and discover relevant content through AI-driven recommendations tailored to user interests and locations.
+Visualize local events, friend activities, and administrative zone-based discussions on an interactive map. Looking at bluesky and mastodon for recommendation feed algorithms. 
 
 Community Empowerment:
 Encourage participation through graph-visualized friend activity maps, local discovery systems, and decentralized collaboration to allow users to shape their own environments.
@@ -81,7 +89,7 @@ Accessibility and Exit Options:
 Focus on universal design principles ensuring usability for all, with features for exporting data and leaving the platform without losing content or functionality.
 
 Canary Alerts:
-Introduce a canary feature allowing users to set periodic signals indicating they are active and safe. If the canary expires (e.g., no activity or manual renewal), it automatically alerts their contact list and followers of the expiration. Alerts can include optional pre-set messages, escalation levels, or next steps, ensuring a balance of security and privacy for critical situations.
+Introduce a canary feature allowing users to set periodic signals indicating they are active and safe. If the canary expires (e.g., no activity or manual renewal), it automatically alerts their contact list and followers of the expiration.
 
 Collaboration and Sharing: 
 Emphasizing global collaboration where knowledge, resources, and ideas are openly shared for the benefit of all, rather than being restricted by patents, secrecy, or proprietary constraints.
