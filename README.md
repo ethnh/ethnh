@@ -66,25 +66,13 @@ Humble, Texas 77346
 # Key Design Principles for Ally
 
 Location-Centric Features:
-Maps, live location updates for friends, public transportation, and local events. Track and visualize locations over time for activities and interactions within the community.
-
-Privacy-First Blogging:
-Import blog posts from RSS, export content to Markdown for “credible exits,” and ensure blogs are private by default. Provide friends-only comments and likes while maintaining full control over data visibility.
+Maps, live location updates for friends, public transportation, and local events. Track and visualize locations over time for activities and interactions within your private community.
 
 Discovery Tools:
 Visualize local events, friend activities, and administrative zone-based discussions on an interactive map. Enable users to explore city-wide topics and discover relevant content through AI-driven recommendations tailored to user interests and locations.
 
-Direct Engagement:
-Real-time messaging with friends and followers, Monero (XMR) QR code integration for secure and anonymous payments, and automatically updating personal contact information. Support private SOS signals and birthday reminders for close friends and family.
-
-Seamless Sharing:
-Enable reposting and content sponsorship with detailed credit to original creators. Implement sharing systems that utilize invitations and visualizations to grow meaningful networks while focusing on privacy.
-
 Community Empowerment:
 Encourage participation through graph-visualized friend activity maps, local discovery systems, and decentralized collaboration to allow users to shape their own environments.
-
-Event Integration:
-Map-based event visualization for government agencies, organizations, or individuals. Notify users of nearby activities and display these on timelines or visual maps with user-specific relevance.
 
 Filesystem Integration:
 Seamlessly integrate with local file systems for managing media, documents, and content. Enable direct uploads, drag-and-drop functionality, and bi-directional syncing to ensure user data remains under their control and easily accessible for use within the platform.
@@ -110,6 +98,8 @@ Suggesting a societal structure where individuals and communities can adapt and 
 Decentralization: 
 Encouraging decentralized systems of knowledge and governance, reducing dependence on centralized authorities and fostering more equitable access and participation
 
+Subscription based user verification:
+Alternative revenue model to "surveillance capitalism".
 
 # Reminders:
 
