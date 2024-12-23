@@ -43,6 +43,7 @@ Humble, Texas 77346
 
 # Personal Beliefs and Observations:
 
+    I believe in this age of technology, it should be an unalienable right for users across the globe to communicate privately amongst each other
     Generative AI is booming not because it produces value for customers but because it consumes resources that wealthier entities profit from.
     Privacy, freedom of expression, and bodily autonomy are fundamental human rights.
     Decentralized systems and open collaboration are critical to future innovation and equity.
