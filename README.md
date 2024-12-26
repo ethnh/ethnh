@@ -181,7 +181,26 @@ Encouraging decentralized systems of knowledge and governance, reducing dependen
 Subscription based user verification:
 Alternative revenue model to "surveillance capitalism".
 
+# Software Supply Chain
+One of the hard problems in software is knowing, and proving, who actually authored a piece of software. And which parts. And knowing that the author and/or code is trustworthy. And what trustworthy even means. And how to scale these trust decisions up.
+
+And doing all that without creating a centralized power structure!
+
+Key transparency, which could be used with reproducible builds and sigstore to secure the pipelines that deliver code to OS and app developers.
+
+Society is predicated on trust decisions and being selectively vulnerable to each other.
+
+If you think you're not trusting anyone, how are you connecting to the Internet at all?
+
+What is your food security story like?
+
+How do you ensure the water you drink is clean?
+
+I think the problem here is: Security doesn't exist without threat models. If you assume no one is trustworthy, you don't have a threat model, you have a useless ideology.
+
 # Bits of Inspiration:
+
+You design an impenetrable box, that’s supposed to keep rodents, water, cold/hot air etc out. And then you start adding doors, and windows, and pipes, etc to allow those elements to penetrate but in a controlled manner
 
 He Will Not Divide Us
 
