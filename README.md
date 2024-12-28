@@ -16,7 +16,7 @@ Humble, Texas 77346
 
 ### I will respect all opinions and ideas -- Speak freely 👋
 
-# I value interconnectedness, creativity, and human well-being most in life. I create my worldview by seeking diverse perspectives, questioning assumptions, and staying open to change. New experiences or evidence that contradict my current beliefs would change it. My priorities are empowering others, fostering sustainability, and pursuing knowledge. When laws are unjust or harm fundamental rights, civil disobedience may be morally justified. Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
+# I value interconnectedness, creativity, and human well-being most in life. I create my worldview by seeking diverse perspectives, questioning assumptions, and staying open to change. New experiences or evidence that contradict my current beliefs would change my worldview. My priorities are empowering others, fostering sustainability, and pursuing knowledge. When laws are unjust or harm fundamental rights, civil disobedience may be morally justified. Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
 # Open Questions:
 
