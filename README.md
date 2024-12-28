@@ -116,7 +116,7 @@ Social engagement with friends down below 20hrs/wk in 2020
 
 Imagine the depictions of suicide possible with VR headsets, or other immersive tech. Our emperors and kings cannot protect the vulnerable. The vulnerable must be empowered to defend themselves. 
 
-III. Surveillance Capitalism 
+III. Surveillance and Psyop Capitalism 
 
 Everyone should be able to forge relationships, learn, create, and build online — without being monetized. 
 
