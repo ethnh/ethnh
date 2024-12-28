@@ -12,12 +12,11 @@ Ethan Hindmarsh
 Humble, Texas 77346
 #### E-Mail: github-inbound@ethan.lol
 ### Join me at:
-#### [Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
-#### Session Group: Message me
+# [Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
 
 ### I will respect all opinions and ideas -- Speak freely 👋
 
-# Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
+# I value interconnectedness, creativity, and human well-being most in life. I create my worldview by seeking diverse perspectives, questioning assumptions, and staying open to change. New experiences or evidence that contradict my current beliefs would change it. My priorities are empowering others, fostering sustainability, and pursuing knowledge. When laws are unjust or harm fundamental rights, civil disobedience may be morally justified. Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
 # Open Questions:
 
@@ -143,44 +142,6 @@ https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/
 
 https://pluralistic.net/2024/05/07/treacherous-computing/ 
 
-# Key Design Principles for Ally
-
-Location-Centric Features:
-Maps, live location updates for friends, public transportation, and local events. Track and visualize locations over time for activities and interactions within your private community.
-
-Discovery Tools:
-Visualize local events, friend activities, and administrative zone-based discussions on an interactive map. Looking at bluesky and mastodon for recommendation feed algorithms. 
-
-Community Empowerment:
-Encourage participation through graph-visualized friend activity maps, local discovery systems, and decentralized collaboration to allow users to shape their own environments.
-
-Filesystem Integration:
-Seamlessly integrate with local file systems for managing media, documents, and content. Enable direct uploads, drag-and-drop functionality, and bi-directional syncing to ensure user data remains under their control and easily accessible for use within the platform.
-
-Accessibility and Exit Options:
-Focus on universal design principles ensuring usability for all, with features for exporting data and leaving the platform without losing content or functionality.
-
-Canary Alerts:
-Introduce a canary feature allowing users to set periodic signals indicating they are active and safe. If the canary expires (e.g., no activity or manual renewal), it automatically alerts their contact list and followers of the expiration.
-
-Collaboration and Sharing: 
-Emphasizing global collaboration where knowledge, resources, and ideas are openly shared for the benefit of all, rather than being restricted by patents, secrecy, or proprietary constraints.
-
-Transparency: 
-Advocating for transparency in decision-making, governance, and scientific endeavors, mirroring how open-source code is accessible for anyone to inspect, use, and improve.
-
-Collective Improvement: 
-Highlighting humanity's capacity to collectively iterate and improve on solutions, technologies, and societal systems, similar to how open-source communities refine software.
-
-Freedom to Modify: 
-Suggesting a societal structure where individuals and communities can adapt and build upon existing systems, whether in education, healthcare, or technology, to meet local needs or personal preferences.
-
-Decentralization: 
-Encouraging decentralized systems of knowledge and governance, reducing dependence on centralized authorities and fostering more equitable access and participation
-
-Subscription based user verification:
-Alternative revenue model to "surveillance capitalism".
-
 # Software Supply Chain
 One of the hard problems in software is knowing, and proving, who actually authored a piece of software. And which parts. And knowing that the author and/or code is trustworthy. And what trustworthy even means. And how to scale these trust decisions up.
 
@@ -197,6 +158,73 @@ What is your food security story like?
 How do you ensure the water you drink is clean?
 
 I think the problem here is: Security doesn't exist without threat models. If you assume no one is trustworthy, you don't have a threat model, you have a useless ideology.
+
+# Trustworthy Government
+
+ALPR Vigilant is the only ALPR company with an integrated platform of commercial data which
+is the largest ALPR data repository in the nation. We see 18-22% of all license plates
+every 30 days, greatly enhancing the ability to generate an investigative lead and alerts
+from across the country.
+3. Vigilant is the industry leader in sharing technologies backed by a commitment to privacy
+and CJIS standards - granular permissions allow precise management of data access
+privileges. We are the only platform that offers seamless sharing/receipt of Law
+Enforcement data nationwide. There are more than 10 Billion Law Enforcement scans
+available through LE data sharing
+
+
+ALPR
+
+
+https://www.motorolasolutions.com/content/dam/msi/docs/business/products/software_and_applications/public_sector_applications/video_applications/automatic_license_plate_recognition__alpr_/_documents/static_files/motorola_alpr_solution_brief.pdf
+
+https://dariusfreamon.wordpress.com/2014/02/19/pips-technology-autoplate-automatic-license-plate-recognition-alpr-multiple-vulnerabilities/
+
+https://learnfl.vigilantsolutions.com/learn/Vigilant_PlateSearch_User_Guide.pdf
+
+https://github.com/TheBurnsy/Vehicle-OSINT-Collection
+
+https://chorusintel.com/
+
+"DataWalk is a Palantir alternative for intelligence analysis, providing robust functionality" https://datawalk.com/palantir-alternative/  "Frequent Enhancements For All Customers" "Far Lower Cost" https://datawalk.com/palantir-pricing/
+
+https://www.kaseware.com/insider-threats
+
+some interesting keywords on https://www.kaseware.com/intelligence-agencies  "Our platform is compliant with all of the following laws and regulations:
+
+    Federal Privacy Law, 28CRF Part 23
+
+    Criminal Justice Information Service Division policies
+
+    SOC2 Type 1
+
+    SOC2 Type 2
+" https://www.kaseware.com/government-agencies
+
+https://www.kaseware.com/ in with CJIS
+
+https://synapseailabs.com/
+Transform unstructured text data into actionable insights with advanced NLP techniques, enabling sentiment analysis, language translation, and chatbot
+Kommon Poll
+Gain valuable insights into your brand’s online presence with Kommon Poll, our powerful social listening tool.
+Real-time monitoring
+Sentiment analysis
+Competitor tracking
+Demographic analysis
+Kompanion-AI social listening assistant
+
+https://shadowdragon.io/ 
+
+https://blackdotsolutions.com/ Empower your teams to leverage open source intelligence (OSINT) efficiently, accurately, and securely
+https://blackdotsolutions.com/wp-content/uploads/2023/12/search-window.png
+https://blackdotsolutions.com/wp-content/uploads/2023/12/risk-search.png
+
+https://i2group.com/
+
+https://www.maltego.com/
+
+https://ntrepidcorp.com/
+
+arrest db: https://mugshots.zone/
 
 # Bits of Inspiration:
 
