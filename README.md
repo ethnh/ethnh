@@ -57,21 +57,6 @@ Humble, Texas 77346
     "You could start a cult" - Louie Dean Valencia
 
 
-# On Social Media and Technology:
-
-    The Internet is Bankrupt:
-        Early platforms like Google optimized for directing users away from their site.
-        Social media now prioritizes addiction, not connection.
-        The rise of "surveillance capitalism" has monetized relationships, creativity, and learning.
-
-    Surveillance Capitalism:
-        Everyone should be able to learn, build, and connect online without being exploited.
-        From data scraping to constant monitoring, companies profit off your existence.
-
-    Designing For Change:
-        Decentralized, user-hosted platforms can empower individuals and protect freedom.
-        Vulnerable communities must be equipped with tools to defend themselves.
-
 # "\[Does] our inability to effectively address mass surveillance constitutes a failure of our field \[cryptography?] I believe that it does. I call for a community-wide effort to develop more effective means to resist mass surveillance"
 
 
