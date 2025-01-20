@@ -1,6 +1,6 @@
 # Ethan Hindmarsh For President 2040
 
-# Contact & Communication:
+# Command & Control:
 ### Join me at:
 # [Join my Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
 
