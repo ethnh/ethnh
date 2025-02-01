@@ -1,11 +1,11 @@
 # Ethan Hindmarsh For President 2040
 
 # Command & Control:
+## Secure Channels
 ### Join me at:
 # [Join my Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
 
-## Secure Channels
-#### [Signal](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7) : [Signal.me](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7)
+#### Directly message me : [Signal](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7) : [Signal.me](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7)
 
 ## Insecure channels
 #### [Simplex](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2F87UzongHDKlPqwHkhTH8dZeMofCd3Mzy%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZp0Mu3PrkA3QkskOkgp09AID6X9pCdWFEzkJ_k4h7ys%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion) : [simplex.chat/contact](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2F87UzongHDKlPqwHkhTH8dZeMofCd3Mzy%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZp0Mu3PrkA3QkskOkgp09AID6X9pCdWFEzkJ_k4h7ys%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion)
