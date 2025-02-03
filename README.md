@@ -1,5 +1,7 @@
 # Ethan Hindmarsh For President 2040
 
+    Life is short
+
 # Command & Control:
 ## Secure Channels:
 ### Join me at:
