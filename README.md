@@ -36,7 +36,6 @@ A platform revolutionizing private content sharing by:
 - Implementing mobile-first design
 - Decentralized by design
 - Federation capabilities
-- User-controlled data storage
 
 ## Critical Focus Areas:
 
