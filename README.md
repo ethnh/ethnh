@@ -61,22 +61,21 @@ A platform revolutionizing private content sharing by:
 
 # Personal Beliefs and Observations:
 
-    I believe in this age of technology, it should be an unalienable right for users across the globe to communicate privately amongst each other
-    Generative AI is booming not because it produces value for customers but because it consumes resources that wealthier entities profit from.
-    Privacy, freedom of expression, and bodily autonomy are fundamental human rights.
-    Decentralized systems and open collaboration are critical to future innovation and equity.
-    Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.
-    The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
-    You are the architect of your life; each decision builds your future.
-    Devs aren't trustworthy by definition
-    You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
-    Confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
-    "Religion is the opiate of the masses"
-    "You could start a cult" - Louie Dean Valencia
-    Perfect privacy and complete transparency cannot coexist
-    Technical sophistication can limit accessibility
-    Centralization often increases efficiency
-    Security and convenience often conflict
+I believe in this age of technology, it should be an unalienable right for users across the globe to communicate privately amongst each other
+Generative AI is booming not because it produces value for customers but because it consumes resources that wealthier entities profit from.
+Privacy, freedom of expression, and bodily autonomy are fundamental human rights.
+Decentralized systems and open collaboration are critical to future innovation and equity.
+Whatever it takes for us to raise the elevation of knowledge of the interconnectedness of all of our relations and our place in them, we have to do it.
+The vulnerable mind fits ambiguous information to its own preconceptions and expectations.
+You are the architect of your life; each decision builds your future.
+Devs aren't trustworthy by definition
+You never change things by fighting against the existing reality. To change something, build a new model that makes the old model obsolete.
+Confirming biases, giving people comfort with truthiness in place of being well informed - it's the new opiate of the masses
+Religion is the opiate of the masses. 
+You could start a cult. 
+Perfect privacy and complete transparency cannot coexist. 
+Centralization often increases efficiency
+Security and convenience often conflict
 
 
 - How do we align our actions with our values?
