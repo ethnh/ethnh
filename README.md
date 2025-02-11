@@ -94,7 +94,7 @@ Security and convenience often conflict
 - When is civil disobedience justified?
 - How can technology serve human well-being?
 
-# "\[Does] our inability to effectively address mass surveillance constitutes a failure of our field \[cryptography?] I believe that it does. I call for a community-wide effort to develop more effective means to resist mass surveillance"
+# Does our inability to effectively address mass surveillance constitutes a failure of our field? I believe that it does. I call for a community-wide effort to develop more effective means to resist mass surveillance
 
 
 # Why "Ally"?:
