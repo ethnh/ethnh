@@ -25,6 +25,22 @@ Humble, Texas 77346
 
 ### I value interconnectedness, creativity, and human well-being most in life. I create my worldview by seeking diverse perspectives, questioning assumptions, and staying open to change. New experiences or evidence that contradict my current beliefs would change my worldview. My priorities are empowering others, fostering sustainability, and pursuing knowledge. When laws are unjust or harm fundamental rights, civil disobedience may be morally justified. Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
+
+# Introduction
+On 10 December 1948, the United Nations General Assembly proclaimed [The Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). Fundamental human rights and freedoms championed in this document include: 
+
+    No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks. Article 12.
+
+    Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Article 19.
+
+As the reader is probably aware, modern nation states are eroding our freedoms at an accelerated rate. The privacy of all global citizens is being grossly invaded with an extensive, mass surveillance network which has contributed to repressive activities (see this report from Privacy International]). Untold billions are under the constant scrutiny of domestic authoritative regimes and law enforcement; the hallmark features of a police state.
+
+Unless precautions are taken, the Internet Service Provider and global surveillance systems like [ECHELON](https://en.wikipedia.org/wiki/ECHELON) and [PRISM](https://en.wikipedia.org/wiki/PRISM) can record everything done online: what the user reads, writes, and with whom they communicate. Only the ill-informed continue to believe this is a conspiracy theory, see [this report from the European Parliament](https://irp.fas.org/program/process/rapport_echelon_en.pdf)
+
+, quote:
+
+    REPORT on the existence of a global system for the interception of private and commercial communicationsECHELON interception system
+
 # Current Initiatives
 ## Project Ally
 A platform revolutionizing private content sharing by:
