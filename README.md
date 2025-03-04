@@ -2,7 +2,6 @@
 
     Life is short
 
-# Command & Control:
 ## Secure Channels:
 ### Join me at:
 # Join my [Ally](https://ally.lol/download/) group : [Click to reveal](https://ally.lol/githuballygroup)
