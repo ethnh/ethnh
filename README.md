@@ -5,13 +5,18 @@
 # Command & Control:
 ## Secure Channels:
 ### Join me at:
-# [Join my Signal Group](https://signal.group/#CjQKIOQomtE7C1PZBCz6oiAAw8ftq_xILPDTAeiuexfEW0F5EhANs3xWrjxr_QcdzV8VZrmc)
+# Join my [Ally](https://ally.lol/download/) group : [Click to reveal](https://ally.lol/githuballygroup)
+# Join my [Signal](https://signal.org/download/) group : [Click to reveal](https://ally.lol/githubsignalgroup)
 
-#### Directly message me : [Signal](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7) : [Signal.me](https://signal.me/#eu/RFTM3wFQHc9mbnWMgti-qFbheJPPdCWpbGsm4f0lH1n1c7YivdVCZrOq7KW1yqA7)
+#### Directly message me on [Signal](https://signal.org/download/) : [Click to reveal](https://ally.lol/signaldm)
 
 ## Insecure channels:
-#### [Simplex](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2F87UzongHDKlPqwHkhTH8dZeMofCd3Mzy%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZp0Mu3PrkA3QkskOkgp09AID6X9pCdWFEzkJ_k4h7ys%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion) : [simplex.chat/contact](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2F87UzongHDKlPqwHkhTH8dZeMofCd3Mzy%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZp0Mu3PrkA3QkskOkgp09AID6X9pCdWFEzkJ_k4h7ys%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion)
-#### Session: 051b5336322333160c3f5ffa895173939974081b2a9a34af13c9b0784e7e440453
+#### Directly message me on [SimpleX](https://simplex.chat/) : [Click to reveal](https://ally.lol/simplex)
+#### Directly message me on [Session](https://getsession.org/) : [Click to reveal](https://ally.lol/session)
+
+### Join me at:
+# Join my [Discord](https://discord.com/) group : [Click to reveal](https://ally.lol/discord)
+# Join my [Matrix](https://matrix.org/try-matrix/) group : [Click to reveal](https://ally.lol/matrix)
 
 #### Mail:
 Ethan Hindmarsh
