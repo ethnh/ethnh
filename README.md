@@ -2,14 +2,14 @@
 
     Life is short
 
-## Secure Channels:
+# Secure channels:
 ### Join me at:
 # Join my [Ally](https://ally.lol/download/) group : [Click to reveal](https://ally.lol/githuballygroup)
 # Join my [Signal](https://signal.org/download/) group : [Click to reveal](https://ally.lol/githubsignalgroup)
 
 #### Directly message me on [Signal](https://signal.org/download/) : [Click to reveal](https://ally.lol/signaldm)
 
-## Insecure channels:
+# Insecure channels:
 #### Directly message me on [SimpleX](https://simplex.chat/) : [Click to reveal](https://ally.lol/simplex)
 #### Directly message me on [Session](https://getsession.org/) : [Click to reveal](https://ally.lol/session)
 
@@ -25,7 +25,7 @@ Ethan Hindmarsh
 Humble, Texas 77346
 #### E-Mail: github-inbound@ethan.lol
 
-### I will respect all opinions and ideas -- Speak freely 👋
+### I welcome all opinions and ideas -- Speak freely 👋
 
 ### I value interconnectedness, creativity, and human well-being most in life. I create my worldview by seeking diverse perspectives, questioning assumptions, and staying open to change. New experiences or evidence that contradict my current beliefs would change my worldview. My priorities are empowering others, fostering sustainability, and pursuing knowledge. When laws are unjust or harm fundamental rights, civil disobedience may be morally justified. Creating design systems that deliver context-sensitive, human-centered outcomes, even on a large scale.
 
@@ -45,8 +45,7 @@ Unless precautions are taken, the Internet Service Provider and global surveilla
 
     REPORT on the existence of a global system for the interception of private and commercial communicationsECHELON interception system
 
-# Current Initiatives
-## Project Ally
+# Ally
 A platform revolutionizing private content sharing by:
 
 - Enabling secure digital blog publishing and subscription
