@@ -4,18 +4,23 @@
 
 # Secure channels:
 # Join my [Ally](https://ally.lol/download/) group : [Click to reveal](https://ally.lol/githuballygroup)
+
 # Join my [Signal](https://signal.org/download/) group : [Click to reveal](https://ally.lol/githubsignalgroup)
 
-### Directly message me on [Signal](https://signal.org/download/) : [Click to reveal](https://ally.lol/signaldm)
+## Directly message me on [Signal](https://signal.org/download/) : [Click to reveal](https://ally.lol/signaldm)
 
 # Insecure channels:
+
 ## Directly message me on [SimpleX](https://simplex.chat/) : [Click to reveal](https://ally.lol/simplex)
+
 ## Directly message me on [Session](https://getsession.org/) : [Click to reveal](https://ally.lol/session)
 
 # Join my [Discord](https://discord.com/) group : [Click to reveal](https://ally.lol/discord)
+
 # Join my [Matrix](https://matrix.org/try-matrix/) group : [Click to reveal](https://ally.lol/matrix)
 
 ## Mail : [Click to reveal](https://ally.lol/mailingaddress)
+
 # E-Mail : [Click to reveal](https://ally.lol/githubemail)
 
 ### I welcome all opinions and ideas -- Speak freely 👋
