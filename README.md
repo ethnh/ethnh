@@ -1,6 +1,6 @@
 # Ethan Hindmarsh For President 2040
 
-    Life is short
+    For we have been socialized to respect fear more than our own needs
 
 # Secure channels:
 # Join my [Ally](https://ally.lol/download/) group : [Click to reveal](https://ally.lol/githuballygroup)
