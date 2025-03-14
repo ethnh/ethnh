@@ -46,6 +46,8 @@ Unless precautions are taken, the Internet Service Provider and global surveilla
 
 # Bits of Inspiration:
 
+Devs aren't trustworthy by definition
+
 You design an impenetrable box, that’s supposed to keep rodents, water, cold/hot air etc out. And then you start adding doors, and windows, and pipes, etc to allow those elements to penetrate but in a controlled manner
 
 He Will Not Divide Us
